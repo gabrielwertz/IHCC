@@ -1,0 +1,9 @@
+methods are 2 types: instance and non-instance
+
+instance - do not have static modifer
+object.mehtod_name
+
+non-instance - do use static modifer 
+class.method_name
+
+a client is a class that uses another class's mehtods 
