@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{535C04D7-A2A5-47C7-83E0-B340A995CD1F}") = "CBLGWW02", "CBLGWW02.cblproj", "{182F3487-456C-47EA-B989-E606AAC41911}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{182F3487-456C-47EA-B989-E606AAC41911}.Debug|x86.ActiveCfg = Debug|x86
+		{182F3487-456C-47EA-B989-E606AAC41911}.Debug|x86.Build.0 = Debug|x86
+		{182F3487-456C-47EA-B989-E606AAC41911}.Release|x86.ActiveCfg = Release|x86
+		{182F3487-456C-47EA-B989-E606AAC41911}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5F2B837-05AE-418A-B31C-A961A82F643B}
+	EndGlobalSection
+EndGlobal

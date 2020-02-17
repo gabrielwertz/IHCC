@@ -1,0 +1,47 @@
+Tests Iowa for boat type and every accessory package
+Robert         IA 87738892 2019 12 31 B 1 9879787 
+M              IA 68652764 2019 11 30 P 2 9999999 last name one character
+James          IA 94864646 2019 10 30 S 3 7888888
+James          IA 95544646 2019 12 30 J 1 7456465
+James          IA 54324646 2019 02 30 C 2 4446548
+James          IA 62345244 2019 01 30 R 3 8846468
+
+Tests illionios for boat type and every accessory package
+John           IL 00000000 0000 00 00 J 1 0000000 all zeros 
+William        IL 99999999 9999 99 99 C 2 9999999 all maxed
+Richard        IL 54687978 2000 07 08 R 3 2222222 
+Ric            IL 55134523 2000 05 04 B 3 3143123
+chard          IL 42542435 2000 07 01 P 2 2134213
+Riard          IL 43252345 2000 02 09 S 1 2314344 
+
+Tests california for boat type and every accessory package
+Charles        CA 78978978 2000 06 09 R 1 2222222 
+Donald         CA 87899898 2000 05 01 C 2 4444444
+Bob            CA 99998999 2019 04 02 J 3 5555555
+Joseph1        CA 00000000 2000 03 03 S 1 6666666 min boat cost
+Joseph2        CA 32143124 2000 03 03 P 2 3214313 
+Joseph3        CA 13243243 2000 03 03 B 3 5635635 
+
+Tests indiana for boat type and every accessory package
+Edward         IN 77777777 2000 02 10 P 2 8888888
+Mary           IN 78888888 2018 01 02 B 3 2258948
+Betty          IN 99999999 2019 12 20 J 1 8944989 max boat cost
+Dorothy        IN 11212144 2000 12 21 S 2 6979799
+Dorothy        IN 11123444 2000 12 21 C 3 6979799
+Dorothy        IN 63453234 2000 12 21 R 1 6979799
+
+Tests Maryland for boat type and every accessory package
+Helen          MD 44555554 2019 12 25 J 3 1665161
+Margaret       MD 44444444 2222 12 26 C 1 5498998
+Barbara        MD 54489949 2000 11 29 R 2 6848989
+Patricia       MD 63452455 2000 09 28 B 2 4123443
+Patricia       MD 62345234 2000 09 28 P 1 6134123
+Patricia       MD 96879678 2000 09 28 S 3 5454645
+
+Tests Wyoming for boat type and every accessory package
+Joan           WY 13265489 2000 07 08 P 1 6687474
+Doris          WY 97878998 2019 02 18 B 2 1112222 
+Doris          WY 97878998 2019 02 18 S 2 1112222 
+Ruth           WY 79879879 1717 08 01 J 3 0000000 prep deliver cost min
+Smith          WY 78989444 1776 04 31 C 1 9999999 prep deliver cost max
+longnamejohnbilWY 11111111 2000 08 30 R 2 8989798 last name 15 characters
